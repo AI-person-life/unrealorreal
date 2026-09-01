@@ -56,8 +56,7 @@ it: no ads, no subscription, no affiliate links. Hungarian-language security
 guidance written for non-experts is essentially an unserved audience, and we treat
 that as a gap to fill rather than a market to exploit.
 
-> **Status:** the site is finished; the final address is being set up.
-> The link will go here once it's live.
+**Live at → [shadowbridge.store/news](https://shadowbridge.store/news/)**
 
 ---
 

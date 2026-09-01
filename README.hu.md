@@ -49,8 +49,7 @@ se hirdetés, se előfizetés, se affiliate. Ami rajta van, az ingyen olvasható
 ingyen is marad — a magyar nyelvű, laikusoknak szóló biztonsági tájékoztatás
 gyakorlatilag lefedetlen sáv, és ezt nem piaci résnek tekintjük, hanem hiánynak.
 
-> **Állapot:** a lap elkészült, a végleges cím kiosztása folyamatban.
-> A link ide kerül, amint él.
+**Élőben → [shadowbridge.store/news](https://shadowbridge.store/news/)**
 
 Az `etika.md` utolsó szakasza azt írja le, miért nem fut idegen kód az olvasón —
 az a döntés ezen a lapon van végigvíve.
