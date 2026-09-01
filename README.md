@@ -36,6 +36,18 @@ az ellenkezője más műfaj lenne.
 - [`docs/eszkozok.md`](docs/eszkozok.md) — a saját scriptek, amik közben születtek
 - [`docs/etika.md`](docs/etika.md) — hol húztuk meg a határt, és miért ott
 
+## A lap, ami ebből lett
+
+A dokumentált módszerrel készült egy magyar nyelvű, heti biztonsági összefoglaló:
+**Nova adása**. Egyetlen önálló HTML-fájl, külső betöltés nélkül — se hirdetés, se
+mérőkód, a betűtípusok és a hangok is a lapba ágyazva.
+
+> **Állapot:** a lap elkészült, a végleges cím kiosztása folyamatban.
+> A link ide kerül, amint él.
+
+Az `etika.md` utolsó szakasza azt írja le, miért nem fut idegen kód az olvasón —
+az a döntés ezen a lapon van végigvíve.
+
 ## Miért nyilvános
 
 Mert a hibalista senkinek nem üzleti titok, viszont mindenkinek időt spórol. Aki
