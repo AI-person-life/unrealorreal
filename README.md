@@ -1,64 +1,64 @@
 # unrealorreal
 
-Két szintetikus karakter felépítése **0,09 euróból, videókártya nélkül** — és minden
-hiba, amit közben elkövettünk.
+Two synthetic characters built for **€0.09, with no GPU** — and every mistake we
+made along the way.
 
-Ez nem termékbemutató. A képek és a modellek nem letölthetők innen. Ami itt van, az a
-**módszer és a hibajegyzék**: azok az apróságok, amik egyetlen dokumentációban sem
-állnak benne, viszont fejenként órákba kerültek.
+This is not a product showcase. The images and the models are not distributed here.
+What *is* here is the **method and the failure log**: the small things that appear
+in no documentation, yet cost hours each.
+
+🇭🇺 [Magyar változat](README.hu.md)
 
 ---
 
-## A számok
+## The numbers
 
 | | |
 |---|---|
-| Teljes költség | **0,09 €** |
-| Legyártott kép | 488 |
-| Használható lett | 65 |
-| Videókártya | 0 |
-| Ember a projektben | 1 |
+| Total cost | **€0.09** |
+| Images generated | 488 |
+| Images that made the cut | 65 |
+| GPUs | 0 |
+| People on the project | 1 |
 
-A munka nagyobb része nem a gépé volt, hanem a válogatásé. A generálás költsége
-gyakorlatilag nulla; a szűk keresztmetszet az ítélőképesség maradt.
+Most of the work wasn't the machine's — it was the selecting. Generation costs
+essentially nothing; judgement remained the bottleneck.
 
-## A név
+## The name
 
-*Unreal or real* — valódi vagy sem. A projekt tétje pontosan ez a kérdés, és a
-válasz nálunk mindig ugyanaz: **kimondjuk.** Minden felületen, ahol ezek a karakterek
-megjelennek, ott áll, hogy gépi úton készültek. Nem azért, mert kötelező, hanem mert
-az ellenkezője más műfaj lenne.
+*Unreal or real.* That question is the whole point of the project, and our answer
+is always the same: **we say it out loud.** Wherever these characters appear, it
+is stated that they are machine-generated. Not because it's required, but because
+the alternative would be a different genre entirely.
 
-## Mi van itt
+## What's here
 
-- [`docs/modszer.md`](docs/modszer.md) — hogyan épül fel egy karakter a semmiből
-- [`docs/hibak.md`](docs/hibak.md) — **a leghasznosabb rész**: amit elrontottunk
-- [`docs/eszkozok.md`](docs/eszkozok.md) — a saját scriptek, amik közben születtek
-- [`docs/etika.md`](docs/etika.md) — hol húztuk meg a határt, és miért ott
+- [`docs/en/method.md`](docs/en/method.md) — how a character gets built from nothing
+- [`docs/en/mistakes.md`](docs/en/mistakes.md) — **the useful part**: what we got wrong
+- [`docs/en/tooling.md`](docs/en/tooling.md) — the scripts that came out of it
+- [`docs/en/ethics.md`](docs/en/ethics.md) — where we drew the line, and why there
 
-## A lap, ami ebből lett
+## Why public
 
-A dokumentált módszerrel készült egy magyar nyelvű, heti biztonsági összefoglaló:
-**Nova adása**. Egyetlen önálló HTML-fájl, külső betöltés nélkül — se hirdetés, se
-mérőkód, a betűtípusok és a hangok is a lapba ágyazva.
+Because a failure log is nobody's trade secret, but saves everybody time. Anyone
+attempting the same thing will hit the same walls — and most of them **fail
+silently**, meaning you don't get an error message, you get a bad result you don't
+know is bad.
 
-A lap a **ShadowBridge non-profit szolgáltatása**. Nincs mögötte bevételi modell:
-se hirdetés, se előfizetés, se affiliate. Ami rajta van, az ingyen olvasható, és
-ingyen is marad — a magyar nyelvű, laikusoknak szóló biztonsági tájékoztatás
-gyakorlatilag lefedetlen sáv, és ezt nem piaci résnek tekintjük, hanem hiánynak.
+## The site this produced
 
-> **Állapot:** a lap elkészült, a végleges cím kiosztása folyamatban.
-> A link ide kerül, amint él.
+The documented method produced a Hungarian-language weekly security digest,
+*Nova adása* ("Nova's broadcast"). A single self-contained HTML file with no
+external loads — no ads, no analytics; fonts and audio are embedded.
 
-Az `etika.md` utolsó szakasza azt írja le, miért nem fut idegen kód az olvasón —
-az a döntés ezen a lapon van végigvíve.
+It is a **non-profit service of ShadowBridge**. There is no revenue model behind
+it: no ads, no subscription, no affiliate links. Hungarian-language security
+guidance written for non-experts is essentially an unserved audience, and we treat
+that as a gap to fill rather than a market to exploit.
 
-## Miért nyilvános
-
-Mert a hibalista senkinek nem üzleti titok, viszont mindenkinek időt spórol. Aki
-ugyanezt megpróbálja, ugyanezekbe fog belefutni — és a legtöbbjük némán bukik el,
-vagyis nem hibaüzenetet kapsz, hanem rossz eredményt, amiről nem tudod, hogy rossz.
+> **Status:** the site is finished; the final address is being set up.
+> The link will go here once it's live.
 
 ---
 
-*Készült Kali Linuxon, egy Dell OptiPlex 990-en. Videókártya nincs benne.*
+*Built on Kali Linux, on a Dell OptiPlex 990. There is no graphics card in it.*

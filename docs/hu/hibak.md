@@ -1,5 +1,7 @@
 # Amit elrontottunk
 
+🇬🇧 [In English](../en/mistakes.md)
+
 Ez a leghasznosabb oldal az egész tárolóban. Mind az öt hiba **némán** bukik el:
 nem hibaüzenetet kapsz, hanem rossz eredményt, amiről nem tudod, hogy rossz.
 
@@ -17,7 +19,7 @@ a szavakat súlyozza, nem a logikai műveletet értelmezi.
 
 | megtiltottuk | megmondtuk, mit akarunk |
 |---|---|
-| ![A tetoválás a rossz karon](kepek/tagadas-elotte.jpg) | ![A tetoválás a kánon szerinti karon](kepek/tagadas-utana.jpg) |
+| ![A tetoválás a rossz karon](../kepek/tagadas-elotte.jpg) | ![A tetoválás a kánon szerinti karon](../kepek/tagadas-utana.jpg) |
 
 *Ugyanaz a kérés, két megfogalmazásban. A karakternek a kánon szerint a bal karján
 van a tetoválás — a tiltó változat pont az ellenkezőjét hozta.*

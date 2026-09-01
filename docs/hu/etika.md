@@ -1,5 +1,7 @@
 # Hol húztuk meg a határt
 
+🇬🇧 [In English](../en/ethics.md)
+
 Szintetikus karaktereket építeni technikailag könnyű. A nehéz kérdés az, hogy mit
 nem csinálsz velük.
 

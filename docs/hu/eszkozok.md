@@ -1,5 +1,7 @@
 # Eszközök
 
+🇬🇧 [In English](../en/tooling.md)
+
 Ezek a projekt közben születtek, mert nem volt rájuk kész megoldás. Mind magyar
 nyelvű kimenettel dolgozik, és mind helyben fut.
 

@@ -1,5 +1,7 @@
 # A módszer
 
+🇬🇧 [In English](../en/method.md)
+
 Videókártya nélküli gépen, egy ember munkájával.
 
 ## 1. Kánon először, kép utána
