@@ -42,6 +42,11 @@ A dokumentált módszerrel készült egy magyar nyelvű, heti biztonsági össze
 **Nova adása**. Egyetlen önálló HTML-fájl, külső betöltés nélkül — se hirdetés, se
 mérőkód, a betűtípusok és a hangok is a lapba ágyazva.
 
+A lap a **ShadowBridge non-profit szolgáltatása**. Nincs mögötte bevételi modell:
+se hirdetés, se előfizetés, se affiliate. Ami rajta van, az ingyen olvasható, és
+ingyen is marad — a magyar nyelvű, laikusoknak szóló biztonsági tájékoztatás
+gyakorlatilag lefedetlen sáv, és ezt nem piaci résnek tekintjük, hanem hiánynak.
+
 > **Állapot:** a lap elkészült, a végleges cím kiosztása folyamatban.
 > A link ide kerül, amint él.
 
